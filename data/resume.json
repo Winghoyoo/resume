@@ -2,96 +2,29 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "唐杰英",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
+        "name": "王昊宇",
+        "school": "北京邮电大学",
         "profession": "计算机科学与技术",
         "sex": "男",
         "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "workage": "大三在读",
+        "phone": "18810360882",
+        "email": "whyoo@bupt.edu.cn"
+		"QQ":"1204034692"
     },
-    "social":[
-        {
-            "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "http://jayinton.com",
-            "icon": ""
-        }
-    ],
-    "Awards": [
-        {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
-        },
-        {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "2013百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
-        }
-    ],
     "socialExperiences": [
         {
-            "name": "加入袂卓移动开发工作室",
-            "name_link": "meizhuo.org",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "现任计算机学院学生会副主席",
+            "description": "组织过很多活动，如学院歌赛，大型场馆志愿等，活动前会做细致规划避免额外情况。"
         },
         {
-            "name": "组织3次校内开发者交流会",
-            "name_link": "http://wuyiuniversity.github.io/",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "name": "在校内本科生招生办做勤工俭学工作",
+            "description": "做过很多文档整理工作，做事扎实有条理，梳理文件细致。会接受学生家长的电话咨询，沟通能力强。"
         }
     ],
-    "InternExperiences": [
-        {
-            "name": "深圳三分线网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
-            "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
-        },
-        {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
-            "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
-        }
-    ],
-    "ProjectExperience": [
+    "Personalprofile": [
         {
             "name": "ETips",
-            "name_link": "http://etips.github.io/",
             "title": "Android App, 作者",
             "icon": "",
             "description": "五邑大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
